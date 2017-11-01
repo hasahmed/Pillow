@@ -61,7 +61,7 @@ Results in the following::
         multi-band images
 
         :param xy: The pixel coordinate, given as (x, y).
-        :param value: The pixel value.
+        :param color: The pixel value in tuple form according to its mode (r, g, b) for RGB 
 
   .. method:: getpixel(self, xy):
 
